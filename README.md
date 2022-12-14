@@ -19,6 +19,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
   1. BEM css
   2. :root CSS
   3. flex: 1; property
-  4. inset property css
+  4. inset property
   5. position: absolute; property
   6. object-fit: cover; property 
+  7. curley braces vs paranthesis in react
