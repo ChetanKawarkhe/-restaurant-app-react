@@ -19,4 +19,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
   1. BEM css
   2. :root CSS
   3. flex: 1; property
-  4.  
+  4. inset property css
+  5. position: absolute; property
+  6. object-fit: cover; property 
