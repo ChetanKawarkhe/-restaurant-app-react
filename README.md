@@ -1,6 +1,6 @@
 ## `deployed project:-`
   [click here](https://restaurant-react-csk.netlify.app/) \
-  or the link below
+  or the link below \
   https://restaurant-react-csk.netlify.app/
 
 ### `npm start`
