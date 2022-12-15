@@ -1,5 +1,7 @@
-## `click the link below to visit deployed project:-`
-  [deployed site](https://restaurant-react-csk.netlify.app/)
+## `deployed project:-`
+  [click here](https://restaurant-react-csk.netlify.app/)
+  or the link below
+  https://restaurant-react-csk.netlify.app/
 
 ### `npm start`
 Runs the app in the development mode.\
